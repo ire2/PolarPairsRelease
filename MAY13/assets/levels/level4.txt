@@ -5,9 +5,9 @@ Level 4
 ..XXX..
 .&...$.
 X.....X
-$.XXX.&
-.......
-.X....X
+$.XXX&.
+......S
+.X.X..X
 ....BX.
 .SX....
 XXXXXXX
